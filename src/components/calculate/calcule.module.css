@@ -1,0 +1,33 @@
+.input{
+ margin-bottom: 3px;
+}
+
+.inputLayout{
+  width: 25%;
+  margin-right: 3px;
+}
+
+.layout{
+  display: flex;
+}
+.inputBaseINSSBaseIPRF{
+  font-weight: bold;
+}
+.inputINSS{
+  color: orange;
+  font-weight: bold;
+}
+
+.inputIPRF{
+  color: red;
+  font-weight: bold;
+}
+
+.inputNetSalary{
+  color:blue;
+  font-weight: bold;
+}
+
+.font{
+  font-weight: bold;
+}

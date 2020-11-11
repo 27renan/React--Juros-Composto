@@ -1,0 +1,11 @@
+.title{
+  text-align: center;
+  padding: 15px;
+}
+
+.barProgress{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
